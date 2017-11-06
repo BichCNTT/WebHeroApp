@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "946562567435",
+    "project_id": "webheroapp-184904"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946562567435:android:41a785d6a79c288c",
+        "android_client_info": {
+          "package_name": "com.vinsofts.asus.apphero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946562567435-28r568c7pefgv99491it0t150rhgjvrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vinsofts.asus.apphero",
+            "certificate_hash": "c58fcb1f3ae10a8c77575504c4a313703e5104f2"
+          }
+        },
+        {
+          "client_id": "946562567435-185oe0guqrojv3gmjmotcmjqeaak6alk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqIsjpG-gtLMI9n1I9dZ9tvvUxz26nqHI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
